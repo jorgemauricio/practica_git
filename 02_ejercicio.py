@@ -1,1 +1,1 @@
-print("ejercicio 02")
+print("ejercicio 02 version jorge4")
