@@ -1,0 +1,1 @@
+print("ejercicio 06: Edwin")
